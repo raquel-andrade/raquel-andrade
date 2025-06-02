@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I am Raquel Andrade!</h1>
 
 ### About me
-- 💻 I’m intent in software development and data security.
+- 💻 I’m intent in software development and the software engineering process.
 - ✍️ Student of software engineering at UnB - Universidade de Brasília.
 
 ### My stats
